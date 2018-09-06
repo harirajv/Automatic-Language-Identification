@@ -1,7 +1,3 @@
-#sigmoid=0.9166666666666666
-#kernel='poly',degree=3 0.9166666666666666
-#linear=0.8333333333333334,0.75
-#rbf=0.9166666666666666,0.8333333333333334 //0.7142857142857143 0.833
 import pandas as pd
 from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
