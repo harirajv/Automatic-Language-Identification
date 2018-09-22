@@ -1,4 +1,4 @@
-# Automatic-Language-Identification
+# Automatic Language Identification
 This project makes use of Mel Frequency Cepstral coefficients extracted from WAV files of speech recordings to identify the language used by the speaker.
 
 ## Mel Frequency Cepstral Coefficients
